@@ -1,6 +1,16 @@
 ##  *Obrigado por dedicar um tempo para visitar meu perfil.*
 
-<span><b>[ Java / Python / Spring / Git / Html / Css ]</b></span>
+<span><b>![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+</b><br><br></span>
+
+## 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=TAYBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/ -->
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gBonasorte&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
+  <tr>
+</table>
 
 <br>
 
@@ -94,6 +104,9 @@ Habilidades Principais
 
 
 <h3>🏆 Obrigado por chegar até aqui!</h3>
+
+## 🌐 Minhas redes sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gubonasorte/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
 
   <a href="https://github.com/gBonasorte">
    <img src="https://github.com/gBonasorte/testeimagens/blob/main/twitch-354.gif?raw=true">
