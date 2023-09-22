@@ -1,10 +1,13 @@
-##  *Obrigado por dedicar um tempo para visitar meu perfil.*
+##  *Obrigado pela visita!*
 
 <span><b>![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-</b><br><br></span>
+</span>
 
-## 📊 GitHub Stats:
+**Você pode deixar mensagens aqui no [GitHub Discussions](https://github.com/seuprofile/seuprofile/discussions/categories/livro-de-visitas)**
+
+</b><br>
+## 📊 Sobre a minha conta:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=TAYBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/ -->
 <table align="center">
   <tr>
@@ -14,18 +17,20 @@
 
 <br>
 
-**Você pode deixar mensagens aqui no [GitHub Discussions](https://github.com/seuprofile/seuprofile/discussions/categories/livro-de-visitas)**
 <br>
 <br>
 
-<h3>Sempre busco produzir o melhor resultado.</h3>
+<h3>Minhas experiências:</h3>
 
 
 - Desenvolvimento Backend
 - Desenvolvimento Web
 - Cloud computing 
 - Aplicações com Blockchain & Smart contract
-<br>
+
+
+<br><br>
+
  💾 Minhas Habilidades
 
 <table align="center">
@@ -69,14 +74,15 @@
   </tr>
   <!-- Adicione mais habilidades específicas do Java conforme necessário -->
 </table>
-<br>
+<p align="center">✔ <b>Frontend</b> : Html / Css / JavaScript <table align="center"><p align="center">
 
-Habilidades Principais
+<p align="center">✔ <b>Backend</b> : Java / Spring Framework / Python <p align="center">
 
-✔ <b>Frontend</b> : Html / Css / JavaScript <br>
-✔ <b>Backend</b> : Java / Spring Framework / Python <br>
-✔ <b>Banco de Dados</b> : MySQL / PostgreSQL / MongoDB <br>
-✔ <b>Linguagens de Programação</b> : Java / Python <br>
+<p align="center">✔ <b>Banco de Dados</b> : MySQL / PostgreSQL / MongoDB <p align="center">
+
+<p align="center">✔ <b>Linguagens de Programação</b> : Java / Python <p align="center">
+
+
 <br>
 
 <h2>📈 Estatísticas</h2>
@@ -95,21 +101,34 @@ Habilidades Principais
 <div align=center>
   <h3><b>📍 Contagem de Visitantes do Perfil</b></h3>
 </div>
-    
+
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/seuprofile/count.svg" />  
 </p>
 
-<br><br>
+<br><br><br>
 
 
-<h3>🏆 Obrigado por chegar até aqui!</h3>
+   </div>
 
-## 🌐 Minhas redes sociais:
+
+  ## 🌐 Minhas redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gubonasorte/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
+<br><br><br>
+<p align="center" >   
 
-  <a href="https://github.com/gBonasorte">
+<a href="https://github.com/gBonasorte">
    <img src="https://github.com/gBonasorte/testeimagens/blob/main/twitch-354.gif?raw=true">
+<p align="center" >   
 </a>
 
    </div>
+   
+  
+
+
+
+   
+
+
+   
