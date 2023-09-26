@@ -117,11 +117,6 @@
 <br><br><br>
 <p align="center" >   
 
-<a href="https://github.com/gBonasorte">
-   <img src="https://github.com/gBonasorte/testeimagens/blob/main/twitch-354.gif?raw=true">
-<p align="center" >   
-</a>
-
    </div>
    
   
