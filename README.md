@@ -37,37 +37,37 @@
   <tr>
     <td align="center" width="96">
       <a href="#java">
-        <img src="https://github.com/gBonasorte/testeimagens/blob/main/imagensGitHub/unnamed%20(4).jpg?raw=true" width="70" height="70" alt="Java" />
+        <img src="https://github.com/gBonasorte/testeimagens/blob/main/124A7B6A-209E-4792-B7FE-6882CF5D3B0A.png" width="70" height="70" alt="Java" />
       </a>
       <br>Java</br>
     </td>
     <td align="center" width="96"  height="100"> 
       <a href="#Python">
-        <img src="https://github.com/gBonasorte/testeimagens/blob/main/imagensGitHub/unnamed%20(5).jpg?raw=true" width="70" height="70" alt="Spring Framework" />
+        <img src="https://github.com/gBonasorte/testeimagens/blob/main/52FF5566-32C2-48FF-9C46-C68C4EE40DE2.png" width="70" height="70" alt="Spring Framework" />
       </a>
       <br>Python
     </td>
     <td align="center" width="">
       <a href="#Git">
-        <img src="https://github.com/gBonasorte/testeimagens/blob/main/imagensGitHub/unnamed%20(2).jpg?raw=true" width="70" height="70" alt="Hibernate" />
+        <img src="https://github.com/gBonasorte/testeimagens/blob/main/920BEDE3-E2DB-43E9-8EDA-CF9F966E76F3.png" width="70" height="70" alt="Hibernate" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#Spring Framework">
-        <img src="https://github.com/gBonasorte/testeimagens/blob/main/imagensGitHub/unnamed%20(3).jpg?raw=true" width="70" height="70" alt="JSP" />
+        <img src="https://github.com/gBonasorte/testeimagens/blob/main/3B154E75-EE60-4EB3-919F-1C44419F223E.png" width="70" height="70" alt="JSP" />
       </a>
       <br>Spring 
     </td>
     <td align="center" width="96">
       <a href="#Html">
-        <img src=https://github.com/gBonasorte/testeimagens/blob/main/imagensGitHub/unnamed%20(1).jpg?raw=true" width="70" height="70" alt="Servlets" />
+        <img src="https://github.com/gBonasorte/testeimagens/blob/main/408588E4-B5C1-4B3D-9C25-9E717EA7A8BA.png" width="70" height="70" alt="Servlets" />
       </a>
       <br>Html
     </td>
      <td align="center" width="96">
       <a href="#Css">
-        <img src="https://github.com/gBonasorte/testeimagens/blob/main/imagensGitHub/unnamed.jpg?raw=true" width="70" height="70" alt="Maven" />
+        <img src="https://github.com/gBonasorte/testeimagens/blob/main/35BB0409-E381-455D-A125-698DCE6EE08A.png" width="70" height="70" alt="Maven" />
       </a>
       <br>Css
     </td>  
